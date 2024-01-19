@@ -1,17 +1,16 @@
-Hi 👋, I'm Leonard
-==================
+# Hi 👋
 
-### A developer from the UK
+Some of my projects and helper tools
 
 ![lennoxruk](https://komarev.com/ghpvc/?username=lennoxruk&label=Profile%20views&color=0e75b6&style=flat)
 
 [![lennoxruk](https://github-profile-trophy.vercel.app/?username=lennoxruk)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages and Tools
+## Languages and tools I know a little about
 
 <p float="left">
   <img alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="100" />
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100" /> 
+  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="100" />
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100" />
   <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100" />
   <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" />
